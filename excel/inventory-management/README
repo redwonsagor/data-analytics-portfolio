@@ -1,0 +1,16 @@
+# Inventory Management Dashboard (Excel + VBA)
+
+## Features
+- Visualized **sales distribution** by category, supplier, and product.  
+- Tracked **monthly sales trends** and **stock vs. sales performance**.  
+- Interactive dashboard using slicers for category and supplier filtering.  
+
+## ⚙VBA Automation
+- **Low Stock Detection**: Automatically identified products falling below stock thresholds.  
+- **Low Stock Report Generation**: Created on-demand reports to highlight critical inventory shortages.  
+
+## Files
+- File: `Inventory Management Dashboard.xlsx`   
+- Dashboard: `Inventory Management Dashboard.pdf`   
+
+> **Note:** Dataset is synthetic. Project focuses on **Excel dashboard creation** and **VBA-powered automation for stock monitoring and reporting**. 
