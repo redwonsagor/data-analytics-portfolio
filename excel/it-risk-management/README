@@ -9,7 +9,7 @@
 - Risk filtering functionality to support quick decision-making.
 
 ### Files
-- Dashboard: `Project for Risk Management Dashboard.xlsx`
-- Report Example: `IT Risk Management Dashboard.pdf`
+- Project file: `Project for Risk Management Dashboard.xlsx`
+- Dashboard: `IT Risk Management Dashboard.pdf`
 
 > **Note:** Dataset is synthetic. Focus was on dashboard creation and **VBA-powered automation**.
