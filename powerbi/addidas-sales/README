@@ -1,0 +1,26 @@
+# Adidas US Sales Analysis (Power BI)
+
+## Overview
+Power BI dashboard analyzing Adidas US sales data (2020–2021). Provides insights into sales, profit, products, and regional performance.
+
+## Dataset
+- Invoice Date, Region, State, City  
+- Product Category, Retailer, Sales Method  
+- Units Sold, Price per Unit, Total Sales, Operating Profit, Margin  
+
+## Dashboard Features
+- KPIs: **Total Sales $900M | Profit $332M | Units Sold 2.48M | Margin 42.3%**  
+- Monthly sales trends & seasonal insights  
+- Sales breakdown by region, state, product, and retailer  
+- Interactive filters (Region, Invoice Date)  
+
+## Tools
+- Power BI (DAX, Power Query)  
+- Data Cleaning & Transformation  
+- KPI Design & Visualization  
+
+## Key Insights
+- **July** was the top month ($95M sales).  
+- **West region** led with 30% of sales.  
+- **Men’s Street Footwear** was the best-selling product ($209M).  
+- **West Gear** was the top retailer ($243M).  
