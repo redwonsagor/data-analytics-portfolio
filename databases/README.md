@@ -37,7 +37,8 @@ Report: `database-lab2-normalization-sql.pdf`
 
 ##  Skills Demonstrated
 - ER Modeling & Database Design  
-- Normalization (up to 3NF)  
+- Normalization (up to 3NF)
+- Data Modelling
 - SQL Queries (Selection, Join, Aggregation)  
 - Transactions & Rollback  
 - SQL Views & Data Abstraction  
