@@ -1,0 +1,36 @@
+# Bank Loan Report Dashboard
+
+## Project Overview  
+This project provides an analytical view of **bank loan applications, funding, and repayment trends** using Excel.  
+The dashboard highlights **loan quality, application behavior, and financial risk insights**.  
+
+## Features  
+- **Summary View**:  
+  - Total loan applications, funded amount, and amount received  
+  - Average interest rate and debt-to-income (DTI) ratio  
+  - Breakdown of good vs. bad loans  
+
+- **Overview View**:  
+  - Loan applications by **month, state, term, employment length, and purpose**  
+  - Visualization of **funded vs. received amounts**  
+  - Risk indicators such as **interest rates** and **DTI**  
+
+- **Interactivity**:  
+  - Filters for loan purpose, state, and ownership  
+  - Drill-down into detailed loan distributions  
+
+## Tools Used  
+- Microsoft Excel  
+  - PivotTables  
+  - PivotCharts  
+  - Slicers  
+  - Dashboard Design  
+
+## Dashboards  
+![Bank Loan Dashboard – Summary](Financial Loan Report.pdf)  
+
+## Files  
+- **Project file**: `Financial_Loan_Dashboard.xlsx`  
+
+---
+*This project improved my ability to analyze large datasets, create financial KPIs, and design professional dashboards in Excel.*
