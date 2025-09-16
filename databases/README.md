@@ -9,7 +9,7 @@ The work was completed collaboratively in **Team 12**.
 - Designed ER diagrams for given schemas.
 - Transformed ER models into relational schemas.
 - Defined primary & foreign keys.
-
+Report: `database-lab2-normalization-sql.pdf`
 ---
 
 ##  Lab 3 – Normalization & SQL
@@ -21,7 +21,7 @@ The work was completed collaboratively in **Team 12**.
   - Selection & projection queries  
   - Aggregation queries on weather dataset (temperature, rainfall, wind speed, humidity).  
 
-📄 Report: `database-lab3-normalization-sql.pdf`
+ Report: `database-lab3-normalization-sql.pdf`
 
 ---
 
@@ -31,7 +31,7 @@ The work was completed collaboratively in **Team 12**.
 - Checked which operations are possible through views (INSERT, UPDATE, DELETE).
 - Wrote SQL queries on sample **Geography** and **Company** databases.
 
-📄 Report: `database-lab4-transactions-views.pdf`
+ Report: `database-lab4-transactions-views.pdf`
 
 ---
 
