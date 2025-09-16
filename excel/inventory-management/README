@@ -10,7 +10,7 @@
 - **Low Stock Report Generation**: Created on-demand reports to highlight critical inventory shortages.  
 
 ## Files
-- File: `Inventory Management Dashboard.xlsx`   
+- Project file: `Inventory Management Dashboard.xlsx`   
 - Dashboard: `Inventory Management Dashboard.pdf`   
 
 > **Note:** Dataset is synthetic. Project focuses on **Excel dashboard creation** and **VBA-powered automation for stock monitoring and reporting**. 
