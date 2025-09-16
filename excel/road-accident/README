@@ -1,0 +1,32 @@
+# Road Accident Dashboard (Excel)
+
+## Project Overview  
+This project analyzes a **large-scale accident dataset** (over **300k+ rows, 20+ columns**) using **Excel PivotTables** and visualization tools.  
+The goal was to identify accident trends, severity distribution, and high-risk factors to support road safety analysis.  
+
+## Features  
+- **Casualty Analysis**: Fatal, serious, and slight casualties.  
+- **Trend Tracking**: Year-over-year monthly accident comparisons.  
+- **Vehicle Type Insights**: Cars, motorcycles, trucks, buses, and more.  
+- **Geographical Breakdown**: Rural vs. urban, road type, and surface conditions.  
+- **Time-Based Analysis**: Day vs. night accident trends.  
+- **Filter Panel**: Interactive slicers for accident year, area type, and conditions.  
+
+## Tools Used  
+- Microsoft Excel  
+  - PivotTables  
+  - PivotCharts  
+  - Slicers for filtering  
+  - Large dataset handling  
+
+## Dashboard  
+![Road Accident Dashboard](Road Accident Dashboard.pdf)  
+ 
+
+## Notes  
+Because of the **large file size**, I could not upload the Excel file directly to GitHub.  
+However, I have provided a **OneDrive link for verification**:  
+[🔗 Road Accident Dashboard (Excel File)](https://onedrive.live.com/:x:/g/personal/E25D5FC377B062AA/EegV3qvEQohJlnYa6DTaHd4BguuhwZojtmgz-BFnJWRC8g?resid=E25D5FC377B062AA!sabde15e842c4498896761ae834da1dde&ithint=file%2Cxlsx&e=VHSYVR&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lMjVkNWZjMzc3YjA2MmFhL0VlZ1YzcXZFUW9oSmxuWWE2RFRhSGQ0Qmd1dWh3Wm9qdG1nei1CRm5KV1JDOGc_ZT1WSFNZVlI)
+
+---
+*This project strengthened my Excel skills in handling large datasets, data validation, and interactive reporting.*
