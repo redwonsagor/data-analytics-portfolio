@@ -1,0 +1,17 @@
+# HR Analytics Dashboard (Excel + VBA)
+
+## Features
+- Visualized **employee distribution** by department, salary, and performance.  
+- Tracked **attendance summary** and **attrition breakdown**.  
+- Highlighted **top-performing departments** and key HR KPIs.  
+- Interactive dashboard with slicers for department, attendance status, and attrition reason.  
+
+## VBA Automation
+- **Employee Low Performance Report**: Automatically generated a list of employees below a performance threshold.  
+- **Attendance Report Generation**: Created daily/weekly attendance summary reports.  
+
+## Files
+- Project file: `Project for HR Analytics Dashboard.xlsx`  
+- Dashboard: `HR Analytics Dashboard.pdf`  
+
+> **Note:** Dataset is synthetic. Project focuses on **Excel analytics** and **VBA automation for HR reporting and monitoring**.
