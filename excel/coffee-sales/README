@@ -1,0 +1,28 @@
+# Coffee Sales Dashboard
+
+## Project Overview  
+This project analyzes global coffee sales using **Excel PivotTables and interactive dashboards**.  
+The dashboard provides insights into sales trends, customer behavior, and product performance.  
+
+## Features  
+- **Time-Based Analysis**: Sales trends by month and year.  
+- **Product Insights**: Breakdown by coffee type (Arabica, Excelsa, Liberica, Robusta).  
+- **Customer Analysis**: Top 5 customers and their total sales contribution.  
+- **Geographical Insights**: Sales by country (United States, Ireland, United Kingdom).  
+- **Filters**: Roast type, package size, and loyalty card options for dynamic analysis.  
+
+## Tools Used  
+- Microsoft Excel  
+  - PivotTables  
+  - PivotCharts  
+  - Slicers & Filters  
+  - Dashboard Design  
+
+## Dashboard  
+![Coffee Sales Dashboard](Coffee_Sales_Dashboard.pdf)  
+
+## Files  
+- **Project file**: `Coffee_Sales_Dashboard.xlsx`  
+
+---
+*This project strengthened my Excel skills in interactive reporting, sales trend analysis, and customer insights.*
