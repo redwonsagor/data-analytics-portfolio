@@ -1,0 +1,28 @@
+# Pizza Sales Report Dashboard (Power BI + PostgreSQL)
+
+## Project Overview
+This project analyzes pizza sales data to uncover business insights such as revenue trends, order patterns, and product performance. The dashboard was built using **Power BI** and validated against **PostgreSQL** queries for accuracy.
+
+## Key Features
+- **KPIs**: Total Revenue, Average Order Value, Total Pizzas Sold, Orders, Avg. Pizza per Order  
+- **Trends**: Daily and monthly order trends, busiest days and months  
+- **Performance Analysis**:  
+  - Sales by pizza category and size  
+  - Best and worst-selling pizzas by revenue, quantity, and orders  
+- **Interactive Filters**: Pizza category, time period selection  
+
+## Tools & Tech
+- **Power BI**: Data modeling, DAX measures, visualization  
+- **PostgreSQL**: SQL queries for validation and accuracy checks  
+- **Dataset**: Pizza sales records (orders, items, revenue, sizes, categories)
+
+## Dashboard
+[View Full Dashboard (PDF)](Pizza_Sales_Report_Dashboard.pdf)
+
+
+## Key Learnings
+- Applied **DAX measures** for KPIs and custom calculations  
+- Designed interactive, drill-through dashboards for business intelligence  
+- Validated results with **SQL queries** to ensure reporting accuracy  
+
+---
