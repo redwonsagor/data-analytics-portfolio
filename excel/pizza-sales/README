@@ -1,0 +1,16 @@
+# Pizza Sales Dashboard (MS Excel)
+
+## Overview
+This project analyzes **48,621 rows of pizza sales transactions Year 2015** to provide insights into revenue, order trends, and customer preferences.  
+The dashboard highlights peak sales times, best/worst-selling products, and category performance.  
+
+## Features
+- Processed and structured 48k+ rows of transactional data in Excel.  
+- Built an interactive dashboard using **PivotTables, slicers, and timeline filters**.  
+- Analyzed **daily and hourly sales trends**.  
+- Identified top & worst-selling pizzas, category-wise performance, and size distribution.  
+- Exported results to a PDF report for quick review.  
+
+## Files
+- `Pizza_Sales_Dashboard.xlsx` → Interactive Excel dashboard  
+- `Pizza_Sales_Report.pdf` → Static report for review  
