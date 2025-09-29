@@ -1,0 +1,29 @@
+# Electric Vehicle Analysis Dashboard (Power BI)
+
+## Overview
+Power BI dashboard analyzing **150,000+ electric vehicle records** from Washington State, USA.  
+Provides insights into adoption trends, vehicle types, eligibility, and electric range performance.
+
+## Dataset
+- County, City, State, Postal Code  
+- Make, Model, Model Year  
+- Electric Vehicle Type (BEV, PHEV)  
+- Electric Range, Base MSRP  
+- CAFV Eligibility, Electric Utility  
+
+## Dashboard Features
+- **KPIs**: Total Vehicles, Average Electric Range  
+- **Trend Analysis**: Vehicles by Model Year  
+- **Distribution**: Top 10 Makes, Top 10 Models  
+- **Eligibility**: CAFV Program Split (Eligible, Not Eligible)  
+- **Vehicle Type**: BEV vs PHEV share  
+- **Range Analysis**: Distribution of Vehicles by Electric Range  
+
+## Files
+- `Electric_Vehicle_Dashboard.pbix` → Power BI project file  
+- `Electric_Vehicle_Dashboard.pdf` → Dashboard preview (quick view)  
+
+## Tools
+- Power BI (Data Modeling, DAX, Visualization)  
+
+---
