@@ -9,6 +9,7 @@ The work was completed collaboratively in **Team 12**.
 - Designed ER diagrams for given schemas.
 - Transformed ER models into relational schemas.
 - Defined primary & foreign keys.
+  
 Report: `database-lab2-normalization-sql.pdf`
 ---
 
