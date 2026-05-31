@@ -4,8 +4,8 @@ This repository showcases my **data analytics projects** built with **Excel, Pow
 It highlights my skills in data cleaning, visualization, reporting, and dashboard development.
 
 ## Projects Overview
-- **Excel Dashboards** → HR Analytics, Inventory Management, IT Risk Management, Road Accident Analysis, Coffee Sales, Bank Loan Report  
-- **Power BI Dashboards** → Pizza Sales, Adidas Sales 
+- **Excel Dashboards** → HR Analytics, Inventory Management, IT Risk Management, Road Accident Analysis, Coffee Sales, Bank Loan Report, Pizza Sales 
+- **Power BI Dashboards** → Pizza Sales, Adidas Sales, Electic vehicle
 - **SQL Labs** → ER Modeling, Normalization (3NF), SQL Queries, Transactions & Views  
 
 ## Skills Demonstrated
