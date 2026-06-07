@@ -25,4 +25,4 @@ Some large datasets are linked externally (OneDrive) due to size limits. Links a
 
 ---
 
-Feel free to explore the dashboards and code. This portfolio is continuously updated as I learn and build new projects.
+Feel free to explore the dashboards. This portfolio is continuously updated as I learn and build new projects.
